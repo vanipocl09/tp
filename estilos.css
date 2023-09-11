@@ -1,0 +1,45 @@
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 0 0 15px 10px;
+}
+nav{
+    font-size: 35px;
+    box-shadow: 0 0 15px 10px;
+    text-align: center;
+    background-color: C3ACEC;
+}
+body{
+    background-image: url(imagenes/marmol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    box-shadow: 0 0 15px 0;
+    background-color: d3bcf6;
+    text-indent: 50px;
+    font-size: 32px;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    background-color: #cd6d39;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
